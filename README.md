@@ -7,6 +7,9 @@ in order to extract all the publications for 4 academics.
 
 The data was used as a proof of concept in order to present Biographies or Narratives for Accademics.
 Specifically, the data was stored in the form of triples, and the code includes a function to etract them directly in turtle format.
+The results are as presented in the "VU_crawled_publications.ttl" file. 
+
+Our complete ontology with all the facts / triples can be found in the "acbio_complete.ttl" file.
 
 The resulting Narratives are displayed here (also incorporating publication data from the Microsoft Academics KG, and some events provided manually):
 

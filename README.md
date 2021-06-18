@@ -11,8 +11,11 @@ Specifically, the data was stored in the form of triples, and the code includes 
 The resulting Narratives are displayed here (also incorporating publication data from the Microsoft Academics KG, and some events provided manually):
 
 Frank van Harmelen : https://api.krr.triply.cc/s/yl1c9CzBJ 
+
 Piek Vossen. :  https://api.krr.triply.cc/s/uF-NS7ZnN
+
 Henri Bal    https://api.krr.triply.cc/s/jnaKr1wpN
+
 Dorret Boomsma  https://api.krr.triply.cc/s/-sSe\_6EAt
 
 

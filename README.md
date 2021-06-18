@@ -11,6 +11,8 @@ The results are as presented in the "VU_crawled_publications.ttl" file.
 
 Our complete ontology with all the facts / triples can be found in the "acbio_complete.ttl" file.
 
+The IRI of our Ontology is "http://www.semanticweb.org/kondilidisn/KRW/2021/acbio"
+
 The resulting Narratives are displayed here (also incorporating publication data from the Microsoft Academics KG, and some events provided manually):
 
 Frank van Harmelen : https://api.krr.triply.cc/s/yl1c9CzBJ 
